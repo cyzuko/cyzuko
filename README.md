@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/zjQrmdlR9ZCM/giphy.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/49/32/18/4932189727c54f1ea2e0361bceb54c23.gif" width="500"/>
 </div>
 
 cyzuko, fullstack developer
