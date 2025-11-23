@@ -6,7 +6,7 @@
 
 
 
-### cyzuko, fullstack developer
+### fullstack developer
 
 - learning some few things
 
