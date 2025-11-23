@@ -7,23 +7,18 @@
 
 cyzuko, fullstack developer
 
-###  Atualmente
+### atm
 
-- Construindo sistemas robustos e escaláveis no backend
-- Explorando arquiteturas distribuídas e microsserviços
-- Aperfeiçoando habilidades em APIs RESTful e GraphQL
+- learning csome few things
 
-###  Stack de Tecnologias
+###  
 
 ```javascript
 const cyzuko = {
   f: "Backend Development, Fullsatck",
   interesses: ["APIs", "Databases", "Cloud", "Performance",
   "System Design", "DevOps", "Security"],
-  objetivo: "Criar soluções eficientes e elegantes"
+  obje: "be the 1"
 };
-```
 
-
----
 
