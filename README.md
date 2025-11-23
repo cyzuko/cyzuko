@@ -1,8 +1,8 @@
 
 [<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlnbDl3NmN6NHNneTg5YWM4YWdhYnBxenNvazF4cDE3eXJ3Mnk1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="500"/>
+  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF5anlnZ293eW5oMjFtMGFjcDF4bm1uY2hqNTZmeXNzMWNzMHBlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dcLFNKRUKvte/giphy.gif width="500"/>
 </div>
-](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF5anlnZ293eW5oMjFtMGFjcDF4bm1uY2hqNTZmeXNzMWNzMHBlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dcLFNKRUKvte/giphy.gif)
+
 
 
 cyzuko, fullstack developer
