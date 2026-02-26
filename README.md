@@ -17,7 +17,6 @@ const cyzuko = {
   f: "Backend Development, Fullsatck",
   interesses: ["APIs", "Databases", "Cloud", "Performance",
   "System Design", "DevOps", "Security"],
-  obje: "be the 1"
 };
 
 
