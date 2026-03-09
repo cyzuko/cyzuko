@@ -8,7 +8,7 @@
 
 ### fullstack developer
 
-- learning some few things
+- learning everyday
 
 ###  
 
