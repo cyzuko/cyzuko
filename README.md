@@ -8,7 +8,7 @@
 
 ###  fullstack developer
 - https://cyzuko.github.io/portfolio/
-- learning everyday
+- Learning everyday
 
 ###  
 
