@@ -11,7 +11,6 @@
 - Learning everyday
 
 ###  
-
 ```javascript
 const cyzuko = {
   f: "Backend Development, Fullsatck",
