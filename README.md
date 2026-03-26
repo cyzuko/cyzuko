@@ -6,7 +6,7 @@
 
 
 
-###  fullstack developer
+###  Fullstack Developer
 - https://cyzuko.github.io/portfolio/
 - Learning everyday 
 
