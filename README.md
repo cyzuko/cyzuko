@@ -17,7 +17,7 @@
 ###  
 ```javascript
 const cyzuko = {
-  f: "Backend Development, Fullsatck",
+  f: "Backend Development, Fullsatck, atm learning devops",
   interesses: ["APIs", "Databases", "Cloud", "Performance",
   "System Design", "DevOps", "Security"],
 };
