@@ -9,7 +9,6 @@
 
 ###  Fullstack Developer
 - https://cyzuko.github.io/portfolio/
-  
 - Trying my best and learning everyday 
 
 
